@@ -7,4 +7,4 @@ The script then tries to connect to the subdomains and assumes the ones that acc
 The script will search for subdomains.txt. This list should be in the same directory as the python script
 
 # Running the script
-SE.py <domain>
+Pythony3 SE.py --domain--
